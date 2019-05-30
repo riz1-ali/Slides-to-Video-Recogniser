@@ -1,0 +1,10 @@
+0.jpg ppt2.jpg
+1.jpg ppt2.jpg
+2.jpg ppt2.jpg
+3.jpg ppt2.jpg
+4.jpg ppt2.jpg
+5.jpg ppt1.jpg
+6.jpg ppt1.jpg
+7.jpg ppt1.jpg
+8.jpg ppt1.jpg
+9.jpg ppt1.jpg
