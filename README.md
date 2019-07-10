@@ -12,8 +12,3 @@ user@linux:~/Slides-to-Video-Recogniser$ pip3 install -r requirements.txt
 user@linux:~/Slides-to-Video-Recogniser$ python3 matcher.py <Path to Slides Folder> <Path to Frames Folder>
 ```
 For testing purposes, you can use the folders in the Testing Set.
-
-### Authors
-- [Rizwan Ali](https://github.com/riz1-ali)
-- [Pragun Saxena](https://github.com/pragun22)
-- [Sankalp Agarwal](https://github.com/sankalp0210)
